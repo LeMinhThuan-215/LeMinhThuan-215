@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LeMinhThuan-215
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Le Minh Thuan
+- 👀 I’m interested in code, code and code
+- 🌱 I’m currently learning lots of progaming languages
+- 📫 Reach me via my gmail or my phone number
 
-<!---
-LeMinhThuan-215/LeMinhThuan-215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
